@@ -8,8 +8,9 @@
 
 ![Switch _Light-Bulb1](https://user-images.githubusercontent.com/61275275/149864231-a2f6f34e-e7cd-4805-9181-3d7c20bcccec.gif)
 
-O trabalho desenvolvido beseado no tutorial disponível em:  <br/>
-https://www.youtube.com/watch?v=OAgH_VMz08A&t=82s
+
+O trabalho foi baseado no tutorial elaborado pelo canal Online Tutorials está disponível no
+YouTube:https://www.youtube.com/watch?v=OAgH_VMz08A&t=82s
 
 
  
