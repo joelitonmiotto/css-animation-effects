@@ -6,9 +6,10 @@
 
 <h2 align="center">Previews 🖥️📱</h2>
 
+![chameleon2](https://user-images.githubusercontent.com/61275275/149861879-9969d943-05ba-4b34-8443-675f87fa1564.gif)
 
 
-O trabalho desenvolvido beseado no tutorial disponível em:  <br/>
+O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
 https://www.youtube.com/watch?v=7W6io09wYhg&t=71s
 
 
