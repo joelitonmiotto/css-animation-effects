@@ -6,6 +6,7 @@
 
 <h2 align="center">Previews 🖥️📱</h2>
     
+
     ![puglove](https://user-images.githubusercontent.com/61275275/149862226-2dd7d2c7-591c-43da-8ac5-0f91450e3238.gif)
 
     
