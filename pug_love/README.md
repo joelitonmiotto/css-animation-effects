@@ -10,8 +10,7 @@
    ![amazon](https://user-images.githubusercontent.com/61275275/149862408-4eb93354-9016-47db-bed8-beec448f68fb.gif)
 
  
-    
-O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
+O trabalho foi baseado no tutorial elaborado pelo canal Novice Coder está disponível no YouTube:
 https://www.youtube.com/watch?v=f4-4yRTgA9E&t=19s
 
 
