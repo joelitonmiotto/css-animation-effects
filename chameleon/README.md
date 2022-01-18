@@ -9,7 +9,7 @@
 ![chameleon2](https://user-images.githubusercontent.com/61275275/149861879-9969d943-05ba-4b34-8443-675f87fa1564.gif)
 
 
-O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
+O trabalho foi baseado no tutorial elaborado pelo canal Novice Coder está disponível no YouTube:
 https://www.youtube.com/watch?v=7W6io09wYhg&t=71s
 
 
