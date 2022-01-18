@@ -9,7 +9,7 @@
    ![amazon](https://user-images.githubusercontent.com/61275275/149861553-5acd7a99-cec7-4e91-86f5-f05479050644.gif)
 
 
-O trabalho desenvolvido beseado no tutorial disponível em:  <br/>
+O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
 
 https://www.youtube.com/watch?v=7UJ7J1lM2Bw&t=276s
 
