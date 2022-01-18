@@ -6,9 +6,9 @@
 
 <h2 align="center">Previews 🖥️📱</h2>
 
+![Fish_Bowl2](https://user-images.githubusercontent.com/61275275/149862095-584cdf26-dfec-4028-9f2c-cf6393f8cf7a.gif)
 
-
-O trabalho desenvolvido beseado no tutorial disponível em:  <br/>
+O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
 
 https://www.youtube.com/watch?v=a2PXv0suX6I&t=2s
 
