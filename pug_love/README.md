@@ -11,10 +11,6 @@
 
  
     
-    ![puglove](https://user-images.githubusercontent.com/61275275/149862408-4eb93354-9016-47db-bed8-beec448f68fb.gif)
-
-
-
 O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
 https://www.youtube.com/watch?v=f4-4yRTgA9E&t=19s
 
