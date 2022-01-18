@@ -8,8 +8,9 @@
 
 ![cuptea](https://user-images.githubusercontent.com/61275275/149864775-6e25dc37-7a67-4f35-9099-6afb61bd805c.gif)
 
-O trabalho desenvolvido beseado no tutorial disponível em:  <br/>
-https://www.youtube.com/watch?v=_jOqYe0eFqY&t=38s
+
+O trabalho foi baseado no tutorial elaborado pelo canal Online Tutorials está disponível no
+YouTube:https://www.youtube.com/watch?v=_jOqYe0eFqY&t=38s
 
 
  
