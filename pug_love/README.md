@@ -7,7 +7,7 @@
     
 <h2 align="center">Previews 🖥️📱</h2>
     
-   ![amazon](https://user-images.githubusercontent.com/61275275/149861553-5acd7a99-cec7-4e91-86f5-f05479050644.gif)
+   ![amazon](https://user-images.githubusercontent.com/61275275/149862408-4eb93354-9016-47db-bed8-beec448f68fb.gif)
 
  
     
