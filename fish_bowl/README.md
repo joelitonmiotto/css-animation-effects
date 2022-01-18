@@ -8,8 +8,8 @@
 
 ![Fish_Bowl2](https://user-images.githubusercontent.com/61275275/149862095-584cdf26-dfec-4028-9f2c-cf6393f8cf7a.gif)
 
-O trabalho desenvolvido baseado no tutorial disponível em:  <br/>
 
+O trabalho foi baseado no tutorial elaborado pelo canal Online Tutorials está disponível no YouTube:
 https://www.youtube.com/watch?v=a2PXv0suX6I&t=2s
 
  
