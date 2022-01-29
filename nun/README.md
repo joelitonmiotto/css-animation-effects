@@ -10,8 +10,8 @@
 
 
 
-O trabalho foi baseado no tutorial elaborado pelo canal Online Tutorials está disponível no YouTube:
-https://www.youtube.com/watch?v=7UJ7J1lM2Bw&t=276s
+O trabalho foi baseado no tutorial elaborado pelo canal ### Alvaro Montoro está disponível no YouTube:
+https://www.youtube.com/watch?v=hXV2d3-VwcE
 
  
 
