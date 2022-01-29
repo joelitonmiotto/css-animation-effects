@@ -6,7 +6,8 @@
 
 <h2 align="center">Previews 🖥️📱</h2>
     
-   ![amazon](https://user-images.githubusercontent.com/61275275/149861553-5acd7a99-cec7-4e91-86f5-f05479050644.gif)
+   ![nun](https://user-images.githubusercontent.com/61275275/151674651-ae7da7a5-c548-4a86-800f-c83555f540be.gif)
+
 
 
 O trabalho foi baseado no tutorial elaborado pelo canal Online Tutorials está disponível no YouTube:
