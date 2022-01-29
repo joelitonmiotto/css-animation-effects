@@ -10,7 +10,7 @@
 
 
 
-O trabalho foi baseado no tutorial elaborado pelo canal *Alvaro Montoro* está disponível no YouTube:
+O trabalho foi baseado no tutorial elaborado pelo canal **Alvaro Montoro** está disponível no YouTube:
 https://www.youtube.com/watch?v=hXV2d3-VwcE
 
  
